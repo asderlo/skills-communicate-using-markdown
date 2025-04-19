@@ -12,3 +12,7 @@ $ git init
 ``` javascript
 var myVar = "你好，世界！";
 ```
+# 任务列表
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
